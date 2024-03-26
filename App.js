@@ -10,7 +10,7 @@ export default function App() {
 
       <Card
         porcentagem="29.17%"
-        title_task="Dormir"
+        title_task="A mimir"
         descript="Uma pausa merecida para reabastecer suas energias, seu corpo e mente."
         image="https://cdn.pixabay.com/photo/2015/06/07/19/42/animal-800760_1280.jpg"
       />
