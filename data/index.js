@@ -1,6 +1,6 @@
-const DATA = [
+const ROTINAS = [
     {
-        id: 1,
+        id: "1",
         porcentagem: "29.17%",
         title_task: "A mimir",
         descript: "Uma pausa merecida para reabastecer suas energias, seu corpo e mente.",
@@ -28,14 +28,14 @@ const DATA = [
         image: "https://cdn.pixabay.com/photo/2015/11/19/10/38/food-1050813_1280.jpg",
     },
     {
-        id: 1,
+        id: 5,
         porcentagem: "20.83%",
         title_task: "Estudar",
         descript: "Momento do dia reservado para estudar novos conteúdos e revisitar, momento para realizar atividades importantes.",
         image: "https://cdn.pixabay.com/photo/2015/07/28/22/05/child-865116_1280.jpg",
     },
     {
-        id: 1,
+        id: 6,
         porcentagem: "04.76%",
         title_task: "Jogar pra Relaxar",
         descript: "Momento para relaxar e descontrair, aproveitando momentos de lazer com jogos durante os fins de semana.",
@@ -44,4 +44,4 @@ const DATA = [
 
 ]
 
-export default DATA;
+export default ROTINAS;
